@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **tewatiavishal3@gmail.com | +91-8395955922**
 
-- 📄 Know about my experiences [Download resume](https://github.com/vishu42/me/releases/download/latest/resume1.0.9.docx.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishu42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishu42" height="30" width="40" /></a>

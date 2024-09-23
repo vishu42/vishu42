@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishu42&label=Profile%20views&color=0e75b6&style=flat" alt="vishu42" /> </p>
 
-- 👨‍💻 View the same information on my another site - [[https://vishu42.github.io/](https://vishal.fr.to/)]
+- 👨‍💻 View the same information on my another site - https://vishu42.github.io
 
 - 📫 How to reach me **tewatiavishal3@gmail.com | +91-8395955922**
 
